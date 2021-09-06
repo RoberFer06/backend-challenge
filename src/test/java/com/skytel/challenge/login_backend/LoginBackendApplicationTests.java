@@ -10,4 +10,8 @@ class LoginBackendApplicationTests {
 	void contextLoads() {
 	}
 
+	@Test
+	void registerUserTest()  {
+	}
+
 }
